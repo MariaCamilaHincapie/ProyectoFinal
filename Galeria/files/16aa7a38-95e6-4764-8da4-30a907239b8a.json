@@ -1,0 +1,1 @@
+{"py/object": "Galeria.Dominio.cuadro.Cuadro", "serial": {"py/object": "uuid.UUID", "hex": "16aa7a3895e647648da430a907239b8a"}, "nombre": "Jinete fantasma", "artista": "H.Hincapie M.", "descripcion": "", "alto": 1.0, "ancho": 2.0, "tipo_pintura": "Oleo", "tipo_tela": "Lona Coste\u00f1a", "precio": 5000000}
